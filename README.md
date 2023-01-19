@@ -1,6 +1,5 @@
 # AIB_CP2
 
-## Environments
-Underscores  
+## Environments \
 - python3.8
 - django = 3.2.3
